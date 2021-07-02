@@ -6,3 +6,8 @@ p{
     color: blueviolet;
     background-color: aqua;
 }
+
+img{
+    height: 350px;
+    width: 350px;
+}
